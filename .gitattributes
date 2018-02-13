@@ -24,3 +24,5 @@
 *.exe.compat binary
 *.ocx.compat binary
 *.tnt binary
+*.png binary
+*.jpg binary
